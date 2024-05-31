@@ -42,7 +42,6 @@ Voici une vidéo YouTube montrant le fonctionnement de l'application :
 
 ## Données et Modèle
 - Vous pouvez trouver le notebook et le dataset sur Kaggle via ce [lien](https://www.kaggle.com/code/khalidregui/r-seaux-de-neurones-convolutifs-pour-le-traitement).
-- Le modèle est entraîné en utilisant le dataset de radiographies disponible sur Kaggle.
 
 ## Ressources Supplémentaires
 - Rapport du projet en PDF : [Télécharger ici](https://www.votre_lien_pdf.com/rapport_projet.pdf)
